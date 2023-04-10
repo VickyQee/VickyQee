@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @VickyQee
-- 👀 I’m interested in meeting developers to collaborate on a monumental project together.
-- 🌱 I’m currently learning backend development at stutern academy .
-- 💞️ I’m looking to collaborate on building a mobile app one of a kind.
-- 📫 How to reach me chukwuv99@gmail.com if you have what it takes.
+- 👋 Hi, I’m victoria Chukwu @VickyQee
+- 👀 I’m interested in being an intern for an international organization .
 
 <!---
 VickyQee/VickyQee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
